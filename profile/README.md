@@ -1,4 +1,4 @@
-Nombre del proyecto: Portafolio Legal Digital
+### Portafolio Legal Digital
 
 Problema: 
 - Los documentos legales de un folder fisico legal estan vulnerables en cuanto a su integridad a causa de 

@@ -24,9 +24,10 @@ Solución:
 
 - GitHub: [@pinajmr](https://github.com/pinajmr)
 
-👤 **Ivy Saskia**
+👤 **Ivy Rocabado**
 
 - GitHub: [@IvySaskia](https://github.com/IvySaskia)
+- LinkedIn: [Ivy Rocabado](https://www.linkedin.com/in/ivy-rocabado/)
 
 👤 **Alberto SC**
 
@@ -36,12 +37,16 @@ Solución:
 
 - GitHub: [@bjvalmaseda-dev](https://github.com/bjvalmaseda-dev)
 
-👤 **Rodrigo**
+👤 **Rodrigo Ramos**
 
 - GitHub: [@rdr-x](https://github.com/rdr-x)
+- Twitter: [@rdrx_](https://twitter.com/rdrx_)
+- LinkedIn: [Rodrigo Ramos](https://www.linkedin.com/in/rodrx20/)
 
 👤 **Sergio Valadez**
 
 - GitHub: [@sergiogval](https://github.com/sergiogval)
 - Twitter: [@twitterhandle](https://twitter.com/sgvldz)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [Sergio Valadez](https://linkedin.com/in/linkedinhandle)
+
+

@@ -23,6 +23,8 @@ Solución:
 👤 **José Piña**
 
 - GitHub: [@pinajmr](https://github.com/pinajmr)
+- Twitter: [@pinajmr]( https://twitter.com/pinajmr)
+- LinkedIn: [José Piña](https://www.linkedin.com/in/pinajmr/)
 
 👤 **Ivy Rocabado**
 

@@ -35,9 +35,11 @@ Solución:
 
 - GitHub: [@Alberto-SC](https://github.com/Alberto-SC)
 
-👤 **Bárbaro**
+👤 **Bárbaro Javier Valmaseda**
 
 - GitHub: [@bjvalmaseda-dev](https://github.com/bjvalmaseda-dev)
+- LinkedIn: [Bárbaro Javaier Valmaseda](https://linkedin/.com/in/bjvalmaseda)
+- Twitter [@bjvalmaseda](https://twitter.com/bjvalmaseda)
 
 👤 **Rodrigo Ramos**
 

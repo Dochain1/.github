@@ -8,15 +8,39 @@ Solución:
 - Crear una dapp donde cada uno de los tipos de documentos se almacenen en un Blockchain y solo tengan acceso
            a cada portafolio las personas y/o entidades que solo deberian tener acceso (abogados, jueces y demás entidades involucrados en el caso).
 
+![image](https://user-images.githubusercontent.com/67393791/188676140-492bba00-de62-4504-a3d0-c24d724f4a18.png)
+![image](https://user-images.githubusercontent.com/67393791/188678013-bf5f2f60-1551-47a7-87af-7b18c6774f2d.png)
+![image](https://user-images.githubusercontent.com/67393791/188676725-42da6c73-9534-4b5d-8799-a10a4ee510cc.png)
+![image](https://user-images.githubusercontent.com/67393791/188678226-7dcac159-6d50-47ac-b5d3-003082e3a30b.png)
+
+## Getting started
+
+### Prerequisitos
+
+Una PC con Sistema Operativo Windows 10 o Linux Ubuntu. Tiene que tener GIT instalado.
+
+### Setup
+
+Para instalar localmente el frontend de la aplicación, seguir los siguientes pasos:
+- Ir al siguiente repositorio [https://github.com/Dochain1/frontend](https://github.com/Dochain1/frontend) y clonarlo localmente.
+- Una vez clonado, situarse en la carpeta raíz y correr el siguiente comando en la terminal:
+```
+npm install
+```
+- Para iniciar un servidor local de desarrollo correr el siguiente comando:
+```
+npm run dev
+```
+
 ## Construido con:
 
 - Lenguajes: HTML, CSS, JavaScript, Solidity, GIT.
-- Frameworks: NextJS, HardHat.
+- Frameworks & librerías: NextJS, HardHat, chakra-ui, ethers.js, web3-react, openpgp, 
 - Tecnologías usadas: GitHub, VScode, Windows WSL2 & Linux.
 
 ## Live Demo
 
-[Live Demo Link]
+[Live Demo Link](https://dochain.vercel.app/)
 
 ## Authors
 
@@ -31,7 +55,7 @@ Solución:
 - GitHub: [@IvySaskia](https://github.com/IvySaskia)
 - LinkedIn: [Ivy Rocabado](https://www.linkedin.com/in/ivy-rocabado/)
 
-👤 **Alberto SC**
+👤 **Alberto Silva Cazares**
 
 - GitHub: [@Alberto-SC](https://github.com/Alberto-SC)
 

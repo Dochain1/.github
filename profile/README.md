@@ -13,7 +13,7 @@ Solución:
 ![image](https://user-images.githubusercontent.com/67393791/188676725-42da6c73-9534-4b5d-8799-a10a4ee510cc.png)
 ![image](https://user-images.githubusercontent.com/67393791/188678226-7dcac159-6d50-47ac-b5d3-003082e3a30b.png)
 
-## Getting started
+## Comenzando
 
 ### Prerequisitos
 
@@ -77,4 +77,16 @@ npm run dev
 - Twitter: [@twitterhandle](https://twitter.com/sgvldz)
 - LinkedIn: [Sergio Valadez](https://linkedin.com/in/linkedinhandle)
 
+## 🤝 Contributing
 
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
